@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright
 import time
-import csv
+import json
 import os
 
 print("Starting the dance class scraper...")
@@ -120,7 +120,7 @@ try:
                     "staff": "",
                     "room": "",
                     "instructor": "",
-                    "instructor_bio":"",
+                    "instructor_bio": "",
                     "description": ""
                 }
                 
@@ -168,19 +168,14 @@ try:
                 # Add this session's data to our list
                 all_class_data.append(session_data)
         
-        # Save the data to a CSV file
-        csv_filename = "broadway_dance_classes.csv"
-        print(f"\nSaving {len(all_class_data)} class records to {csv_filename}...")
+        # Save the data to a JSON file
+        json_filename = "broadway_dance_classes.json"
+        print(f"\nSaving {len(all_class_data)} class records to {json_filename}...")
         
-        with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
-            fieldnames = ['date', 'time', 'name', 'staff', 'room', 'instructor', 'instructor_bio', 'description']
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-            
-            writer.writeheader()
-            for session in all_class_data:
-                writer.writerow(session)
+        with open(json_filename, 'w', encoding='utf-8') as jsonfile:
+            json.dump(all_class_data, jsonfile, indent=2, ensure_ascii=False)
         
-        print(f"Data successfully saved to {csv_filename}")
+        print(f"Data successfully saved to {json_filename}")
         
         # Print a sample of the data
         print("\nSample of extracted data:")
