@@ -1,0 +1,882 @@
+[
+  {
+    "date": "Thursday Apr 10th",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "All Levels Heels Foundations",
+    "staff": "",
+    "room": "",
+    "instructor": "Saki",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Thursday Apr 10th",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "All Levels JerZ",
+    "staff": "",
+    "room": "",
+    "instructor": "E Skilllz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Thursday Apr 10th",
+    "time": "9:30 PM EDT • (120 min)",
+    "name": "\"Every Thursday\" Open Freestyle Session",
+    "staff": "",
+    "room": "",
+    "instructor": "CJ & 8-Legx & Darien Van Rensalier",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Friday Apr 11th",
+    "time": "5:30 PM EDT • (85 min)",
+    "name": "Beg./Adv. Beg Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Divya Raj",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Friday Apr 11th",
+    "time": "5:30 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Caroline Kim",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Friday Apr 11th",
+    "time": "7:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Tulani Janae",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Friday Apr 11th",
+    "time": "8:30 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Selene Iréhi",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Friday Apr 11th",
+    "time": "8:30 PM EDT • (90 min)",
+    "name": "Open Krump Lab",
+    "staff": "",
+    "room": "",
+    "instructor": "Anubis",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Friday Apr 11th",
+    "time": "10:00 PM EDT • (90 min)",
+    "name": "Loiter Session Community Class: Angie Simmonds x Peter Yu",
+    "staff": "",
+    "room": "",
+    "instructor": "Loiter Session Instructor",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 12th",
+    "time": "1:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Miguel Ruiz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 12th",
+    "time": "2:30 PM EDT • (85 min)",
+    "name": "All Levels Popping",
+    "staff": "",
+    "room": "",
+    "instructor": "Wiz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 12th",
+    "time": "2:30 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Karen Vanessa",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 12th",
+    "time": "4:00 PM EDT • (120 min)",
+    "name": "Open \"Chilluminati\" Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Kevin Chen",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 12th",
+    "time": "6:00 PM EDT • (85 min)",
+    "name": "All Levels Vogue Femme",
+    "staff": "",
+    "room": "",
+    "instructor": "Saki",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 12th",
+    "time": "7:30 PM EDT • (85 min)",
+    "name": "All Levels Locking",
+    "staff": "",
+    "room": "",
+    "instructor": "Rita Gosin",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Sunday Apr 13th",
+    "time": "3:30 PM EDT • (90 min)",
+    "name": "Open Flexn Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Cal Hunt",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Sunday Apr 13th",
+    "time": "5:00 PM EDT • (85 min)",
+    "name": "Beg./Adv. Beginner House",
+    "staff": "",
+    "room": "",
+    "instructor": "Sabrina Kiamilev",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Sunday Apr 13th",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "Adv. Beginner/Int. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Malik McCullough",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Sunday Apr 13th",
+    "time": "8:00 PM EDT • (120 min)",
+    "name": "Open Hip Hop Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Kito Liao & Liam Lynch",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 14th",
+    "time": "5:00 PM EDT • (85 min)",
+    "name": "All Levels Floorwork",
+    "staff": "",
+    "room": "",
+    "instructor": "Ice-o",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 14th",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "All Levels Hip Hop",
+    "staff": "",
+    "room": "",
+    "instructor": "Quilan \"Cue\" Arnold",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 14th",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "Beg./Adv. Beginner Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Edson Maldonado",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 14th",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "All Levels Breaking",
+    "staff": "",
+    "room": "",
+    "instructor": "Static",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 14th",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Esosa Oviasu",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 14th",
+    "time": "9:30 PM EDT • (85 min)",
+    "name": "Intro to NewStyle Hustle",
+    "staff": "",
+    "room": "",
+    "instructor": "Kenji",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 14th",
+    "time": "9:30 PM EDT • (120 min)",
+    "name": "Open Breaking Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Static",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Tuesday Apr 15th",
+    "time": "5:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Jason Diaz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Tuesday Apr 15th",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "Adv. Beginner/Int. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Unique Clay",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Tuesday Apr 15th",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "All Levels Waacking",
+    "staff": "",
+    "room": "",
+    "instructor": "Onjay",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Tuesday Apr 15th",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "Beg./Adv. Beg. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Andrew Solis",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Tuesday Apr 15th",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "Intermediate House",
+    "staff": "",
+    "room": "",
+    "instructor": "Huu Rock",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Tuesday Apr 15th",
+    "time": "9:30 PM EDT • (120 min)",
+    "name": "Open \"Modega\" House/Funk Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Huu Rock",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Wednesday Apr 16th",
+    "time": "5:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Sarah Esser",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Wednesday Apr 16th",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "All Levels Krump",
+    "staff": "",
+    "room": "",
+    "instructor": "Brian Hallow Dreamz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Wednesday Apr 16th",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Kara Lee",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Wednesday Apr 16th",
+    "time": "8:00 PM EDT • (90 min)",
+    "name": "All Levels Waving",
+    "staff": "",
+    "room": "",
+    "instructor": "CJ",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Wednesday Apr 16th",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Bo Belza",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Thursday Apr 17th",
+    "time": "5:00 PM EDT • (85 min)",
+    "name": "Beginner Vogue-Femme",
+    "staff": "",
+    "room": "",
+    "instructor": "Saki",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Thursday Apr 17th",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "Beg/Adv. Beg. Street Styles Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Amy Gatewood",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Thursday Apr 17th",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "All Levels JerZ",
+    "staff": "",
+    "room": "",
+    "instructor": "E Skilllz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Thursday Apr 17th",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "Intermediate Heels",
+    "staff": "",
+    "room": "",
+    "instructor": "India Stokes",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Thursday Apr 17th",
+    "time": "9:30 PM EDT • (120 min)",
+    "name": "\"Every Thursday\" Open Freestyle Session",
+    "staff": "",
+    "room": "",
+    "instructor": "CJ & 8-Legx & Darien Van Rensalier",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Friday Apr 18th",
+    "time": "5:30 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Masumi Kambayashi",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Friday Apr 18th",
+    "time": "7:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Edson Maldonado",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Friday Apr 18th",
+    "time": "8:30 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Caitlin Marks",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Friday Apr 18th",
+    "time": "8:30 PM EDT • (90 min)",
+    "name": "Open Krump Lab",
+    "staff": "",
+    "room": "",
+    "instructor": "Anubis",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 19th",
+    "time": "1:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Miguel Ruiz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 19th",
+    "time": "2:30 PM EDT • (85 min)",
+    "name": "All Levels Popping",
+    "staff": "",
+    "room": "",
+    "instructor": "Wiz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 19th",
+    "time": "4:00 PM EDT • (120 min)",
+    "name": "Open \"Chilluminati\" Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Kevin Chen",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 19th",
+    "time": "6:00 PM EDT • (85 min)",
+    "name": "All Levels Vogue Femme",
+    "staff": "",
+    "room": "",
+    "instructor": "Saki",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 19th",
+    "time": "7:30 PM EDT • (85 min)",
+    "name": "All Levels Locking",
+    "staff": "",
+    "room": "",
+    "instructor": "Rita Gosin",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Sunday Apr 20th",
+    "time": "3:30 PM EDT • (90 min)",
+    "name": "Open Flexn Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Cal Hunt",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Sunday Apr 20th",
+    "time": "5:00 PM EDT • (85 min)",
+    "name": "Beg./Adv. Beginner House",
+    "staff": "",
+    "room": "",
+    "instructor": "Sabrina Kiamilev",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Sunday Apr 20th",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "Adv. Beginner/Int. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Youran Lee",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Sunday Apr 20th",
+    "time": "8:00 PM EDT • (120 min)",
+    "name": "Open Hip Hop Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Kito Liao & Liam Lynch",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 21st",
+    "time": "5:00 PM EDT • (85 min)",
+    "name": "All Levels Floorwork",
+    "staff": "",
+    "room": "",
+    "instructor": "Ice-o",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 21st",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "All Levels Hip Hop",
+    "staff": "",
+    "room": "",
+    "instructor": "Quilan \"Cue\" Arnold",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 21st",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "Beg./Adv. Beginner Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Edson Maldonado",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 21st",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "All Levels Breaking",
+    "staff": "",
+    "room": "",
+    "instructor": "Static",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 21st",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Esosa Oviasu",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 21st",
+    "time": "9:30 PM EDT • (85 min)",
+    "name": "Intro to NewStyle Hustle",
+    "staff": "",
+    "room": "",
+    "instructor": "Kenji",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 21st",
+    "time": "9:30 PM EDT • (120 min)",
+    "name": "Open Breaking Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Static",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Tuesday Apr 22nd",
+    "time": "5:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Jason Diaz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Tuesday Apr 22nd",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "Adv. Beginner/Int. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Unique Clay",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Tuesday Apr 22nd",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "All Levels Waacking",
+    "staff": "",
+    "room": "",
+    "instructor": "Onjay",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Tuesday Apr 22nd",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "Beg./Adv. Beg. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Andrew Solis",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Tuesday Apr 22nd",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "Intermediate House",
+    "staff": "",
+    "room": "",
+    "instructor": "Huu Rock",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Tuesday Apr 22nd",
+    "time": "9:30 PM EDT • (120 min)",
+    "name": "Open \"Modega\" House/Funk Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Huu Rock",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Wednesday Apr 23rd",
+    "time": "5:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Sarah Esser",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Wednesday Apr 23rd",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "All Levels Krump",
+    "staff": "",
+    "room": "",
+    "instructor": "Brian Hallow Dreamz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Wednesday Apr 23rd",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Jojo Brooks",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Wednesday Apr 23rd",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Bo Belza",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Thursday Apr 24th",
+    "time": "5:00 PM EDT • (85 min)",
+    "name": "Beginner Vogue-Femme",
+    "staff": "",
+    "room": "",
+    "instructor": "Saki",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Thursday Apr 24th",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "Beg/Adv. Beg. Street Styles Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Amy Gatewood",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Thursday Apr 24th",
+    "time": "8:00 PM EDT • (85 min)",
+    "name": "All Levels JerZ",
+    "staff": "",
+    "room": "",
+    "instructor": "E Skilllz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Thursday Apr 24th",
+    "time": "9:30 PM EDT • (120 min)",
+    "name": "\"Every Thursday\" Open Freestyle Session",
+    "staff": "",
+    "room": "",
+    "instructor": "CJ & 8-Legx & Darien Van Rensalier",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Friday Apr 25th",
+    "time": "5:30 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Masumi Kambayashi",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Friday Apr 25th",
+    "time": "8:30 PM EDT • (90 min)",
+    "name": "Open Krump Lab",
+    "staff": "",
+    "room": "",
+    "instructor": "Anubis",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 26th",
+    "time": "1:00 PM EDT • (85 min)",
+    "name": "Int./Adv. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Miguel Ruiz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 26th",
+    "time": "2:30 PM EDT • (85 min)",
+    "name": "All Levels Popping",
+    "staff": "",
+    "room": "",
+    "instructor": "Wiz",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 26th",
+    "time": "4:00 PM EDT • (120 min)",
+    "name": "Open \"Chilluminati\" Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Kevin Chen",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 26th",
+    "time": "6:00 PM EDT • (85 min)",
+    "name": "All Levels Vogue Femme",
+    "staff": "",
+    "room": "",
+    "instructor": "Saki",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Saturday Apr 26th",
+    "time": "7:30 PM EDT • (85 min)",
+    "name": "All Levels Locking",
+    "staff": "",
+    "room": "",
+    "instructor": "Rita Gosin",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Sunday Apr 27th",
+    "time": "3:30 PM EDT • (90 min)",
+    "name": "Open Flexn Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Cal Hunt",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Sunday Apr 27th",
+    "time": "5:00 PM EDT • (85 min)",
+    "name": "Beg./Adv. Beginner House",
+    "staff": "",
+    "room": "",
+    "instructor": "Sabrina Kiamilev",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Sunday Apr 27th",
+    "time": "6:30 PM EDT • (85 min)",
+    "name": "Adv. Beginner/Int. Choreography",
+    "staff": "",
+    "room": "",
+    "instructor": "Youran Lee",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Sunday Apr 27th",
+    "time": "8:00 PM EDT • (120 min)",
+    "name": "Open Hip Hop Session",
+    "staff": "",
+    "room": "",
+    "instructor": "Kito Liao & Liam Lynch",
+    "instructor_bio": "",
+    "description": ""
+  },
+  {
+    "date": "Monday Apr 28th",
+    "time": "5:00 PM EDT • (85 min)",
+    "name": "All Levels Floorwork",
+    "staff": "",
+    "room": "",
+    "instructor": "Ice-o",
+    "instructor_bio": "",
+    "description": ""
+  }
+]
