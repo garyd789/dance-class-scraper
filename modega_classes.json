@@ -1,882 +1,1324 @@
 [
   {
-    "date": "Thursday Apr 10th",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "All Levels Heels Foundations",
-    "staff": "",
-    "room": "",
-    "instructor": "Saki",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Thursday Apr 10th",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "All Levels JerZ",
-    "staff": "",
-    "room": "",
-    "instructor": "E Skilllz",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Thursday Apr 10th",
-    "time": "9:30 PM EDT • (120 min)",
-    "name": "\"Every Thursday\" Open Freestyle Session",
-    "staff": "",
-    "room": "",
-    "instructor": "CJ & 8-Legx & Darien Van Rensalier",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Friday Apr 11th",
-    "time": "5:30 PM EDT • (85 min)",
-    "name": "Beg./Adv. Beg Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Divya Raj",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Friday Apr 11th",
-    "time": "5:30 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Caroline Kim",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Friday Apr 11th",
-    "time": "7:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Tulani Janae",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Friday Apr 11th",
-    "time": "8:30 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Selene Iréhi",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Friday Apr 11th",
-    "time": "8:30 PM EDT • (90 min)",
-    "name": "Open Krump Lab",
-    "staff": "",
-    "room": "",
-    "instructor": "Anubis",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Friday Apr 11th",
-    "time": "10:00 PM EDT • (90 min)",
-    "name": "Loiter Session Community Class: Angie Simmonds x Peter Yu",
-    "staff": "",
-    "room": "",
-    "instructor": "Loiter Session Instructor",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Saturday Apr 12th",
-    "time": "1:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Miguel Ruiz",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Saturday Apr 12th",
-    "time": "2:30 PM EDT • (85 min)",
-    "name": "All Levels Popping",
-    "staff": "",
-    "room": "",
-    "instructor": "Wiz",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Saturday Apr 12th",
-    "time": "2:30 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Karen Vanessa",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Saturday Apr 12th",
-    "time": "4:00 PM EDT • (120 min)",
-    "name": "Open \"Chilluminati\" Session",
-    "staff": "",
-    "room": "",
-    "instructor": "Kevin Chen",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Saturday Apr 12th",
-    "time": "6:00 PM EDT • (85 min)",
-    "name": "All Levels Vogue Femme",
-    "staff": "",
-    "room": "",
-    "instructor": "Saki",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Saturday Apr 12th",
-    "time": "7:30 PM EDT • (85 min)",
-    "name": "All Levels Locking",
-    "staff": "",
-    "room": "",
-    "instructor": "Rita Gosin",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Sunday Apr 13th",
-    "time": "3:30 PM EDT • (90 min)",
-    "name": "Open Flexn Session",
-    "staff": "",
-    "room": "",
-    "instructor": "Cal Hunt",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Sunday Apr 13th",
-    "time": "5:00 PM EDT • (85 min)",
-    "name": "Beg./Adv. Beginner House",
-    "staff": "",
-    "room": "",
-    "instructor": "Sabrina Kiamilev",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Sunday Apr 13th",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "Adv. Beginner/Int. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Malik McCullough",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Sunday Apr 13th",
-    "time": "8:00 PM EDT • (120 min)",
-    "name": "Open Hip Hop Session",
-    "staff": "",
-    "room": "",
-    "instructor": "Kito Liao & Liam Lynch",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Monday Apr 14th",
-    "time": "5:00 PM EDT • (85 min)",
-    "name": "All Levels Floorwork",
-    "staff": "",
-    "room": "",
-    "instructor": "Ice-o",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Monday Apr 14th",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "All Levels Hip Hop",
-    "staff": "",
-    "room": "",
-    "instructor": "Quilan \"Cue\" Arnold",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Monday Apr 14th",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "Beg./Adv. Beginner Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Edson Maldonado",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Monday Apr 14th",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "All Levels Breaking",
-    "staff": "",
-    "room": "",
-    "instructor": "Static",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Monday Apr 14th",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Esosa Oviasu",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Monday Apr 14th",
-    "time": "9:30 PM EDT • (85 min)",
-    "name": "Intro to NewStyle Hustle",
-    "staff": "",
-    "room": "",
-    "instructor": "Kenji",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Monday Apr 14th",
-    "time": "9:30 PM EDT • (120 min)",
-    "name": "Open Breaking Session",
-    "staff": "",
-    "room": "",
-    "instructor": "Static",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Tuesday Apr 15th",
-    "time": "5:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Jason Diaz",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Tuesday Apr 15th",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "Adv. Beginner/Int. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Unique Clay",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Tuesday Apr 15th",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "All Levels Waacking",
-    "staff": "",
-    "room": "",
-    "instructor": "Onjay",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Tuesday Apr 15th",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "Beg./Adv. Beg. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Andrew Solis",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Tuesday Apr 15th",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "Intermediate House",
-    "staff": "",
-    "room": "",
-    "instructor": "Huu Rock",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Tuesday Apr 15th",
-    "time": "9:30 PM EDT • (120 min)",
-    "name": "Open \"Modega\" House/Funk Session",
-    "staff": "",
-    "room": "",
-    "instructor": "Huu Rock",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Wednesday Apr 16th",
-    "time": "5:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Sarah Esser",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Wednesday Apr 16th",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "All Levels Krump",
-    "staff": "",
-    "room": "",
-    "instructor": "Brian Hallow Dreamz",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Wednesday Apr 16th",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Kara Lee",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Wednesday Apr 16th",
-    "time": "8:00 PM EDT • (90 min)",
-    "name": "All Levels Waving",
-    "staff": "",
-    "room": "",
-    "instructor": "CJ",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Wednesday Apr 16th",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Bo Belza",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Thursday Apr 17th",
-    "time": "5:00 PM EDT • (85 min)",
-    "name": "Beginner Vogue-Femme",
-    "staff": "",
-    "room": "",
-    "instructor": "Saki",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Thursday Apr 17th",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "Beg/Adv. Beg. Street Styles Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Amy Gatewood",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Thursday Apr 17th",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "All Levels JerZ",
-    "staff": "",
-    "room": "",
-    "instructor": "E Skilllz",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Thursday Apr 17th",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "Intermediate Heels",
-    "staff": "",
-    "room": "",
-    "instructor": "India Stokes",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Thursday Apr 17th",
-    "time": "9:30 PM EDT • (120 min)",
-    "name": "\"Every Thursday\" Open Freestyle Session",
-    "staff": "",
-    "room": "",
-    "instructor": "CJ & 8-Legx & Darien Van Rensalier",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Friday Apr 18th",
-    "time": "5:30 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Masumi Kambayashi",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Friday Apr 18th",
-    "time": "7:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Edson Maldonado",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Friday Apr 18th",
-    "time": "8:30 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-28T17:00:00",
+    "time_end": "2025-04-28T18:25:00",
+    "style": "Choreography",
+    "level": "Adv.-Beg./Int.",
     "instructor": "Caitlin Marks",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/f4GN8sOzozN9kBJeJeeV",
+    "description": "",
+    "unified_level": [
+      "Beginner/Intermediate",
+      "Intermediate",
+      "Advanced Beginner",
+      "Advanced Intermediate"
+    ]
   },
   {
-    "date": "Friday Apr 18th",
-    "time": "8:30 PM EDT • (90 min)",
-    "name": "Open Krump Lab",
-    "staff": "",
-    "room": "",
-    "instructor": "Anubis",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Saturday Apr 19th",
-    "time": "1:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Miguel Ruiz",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Saturday Apr 19th",
-    "time": "2:30 PM EDT • (85 min)",
-    "name": "All Levels Popping",
-    "staff": "",
-    "room": "",
-    "instructor": "Wiz",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Saturday Apr 19th",
-    "time": "4:00 PM EDT • (120 min)",
-    "name": "Open \"Chilluminati\" Session",
-    "staff": "",
-    "room": "",
-    "instructor": "Kevin Chen",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Saturday Apr 19th",
-    "time": "6:00 PM EDT • (85 min)",
-    "name": "All Levels Vogue Femme",
-    "staff": "",
-    "room": "",
-    "instructor": "Saki",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Saturday Apr 19th",
-    "time": "7:30 PM EDT • (85 min)",
-    "name": "All Levels Locking",
-    "staff": "",
-    "room": "",
-    "instructor": "Rita Gosin",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Sunday Apr 20th",
-    "time": "3:30 PM EDT • (90 min)",
-    "name": "Open Flexn Session",
-    "staff": "",
-    "room": "",
-    "instructor": "Cal Hunt",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Sunday Apr 20th",
-    "time": "5:00 PM EDT • (85 min)",
-    "name": "Beg./Adv. Beginner House",
-    "staff": "",
-    "room": "",
-    "instructor": "Sabrina Kiamilev",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Sunday Apr 20th",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "Adv. Beginner/Int. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Youran Lee",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Sunday Apr 20th",
-    "time": "8:00 PM EDT • (120 min)",
-    "name": "Open Hip Hop Session",
-    "staff": "",
-    "room": "",
-    "instructor": "Kito Liao & Liam Lynch",
-    "instructor_bio": "",
-    "description": ""
-  },
-  {
-    "date": "Monday Apr 21st",
-    "time": "5:00 PM EDT • (85 min)",
-    "name": "All Levels Floorwork",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-28T17:00:00",
+    "time_end": "2025-04-28T18:25:00",
+    "style": "",
+    "level": "All Levels Floorwork",
     "instructor": "Ice-o",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/qDGrrJo3MiN6IWDMcJtK",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Monday Apr 21st",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "All Levels Hip Hop",
-    "staff": "",
-    "room": "",
-    "instructor": "Quilan \"Cue\" Arnold",
-    "instructor_bio": "",
-    "description": ""
+    "time_start": "2025-04-28T18:30:00",
+    "time_end": "2025-04-28T19:55:00",
+    "style": "Hip Hop",
+    "level": "All Levels",
+    "instructor": "Olosu",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/87NuOlAGl7s46YJJkR6A",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Monday Apr 21st",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "Beg./Adv. Beginner Choreography",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-28T18:30:00",
+    "time_end": "2025-04-28T19:55:00",
+    "style": "Choreography",
+    "level": "Beg./Adv. Beginner",
     "instructor": "Edson Maldonado",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/q5XppMk0ESPlr8V2E8Nf",
+    "description": "",
+    "unified_level": [
+      "Absolute Beginner",
+      "Beginner",
+      "Beginner/Intermediate"
+    ]
   },
   {
-    "date": "Monday Apr 21st",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "All Levels Breaking",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-28T20:00:00",
+    "time_end": "2025-04-28T21:25:00",
+    "style": "Breaking",
+    "level": "All Levels",
     "instructor": "Static",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/fBcNJgl6xX9atNvhCKpO",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Monday Apr 21st",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-28T20:00:00",
+    "time_end": "2025-04-28T21:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
     "instructor": "Esosa Oviasu",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/ykoEl7UJFOlsjcC9k3GQ",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
   },
   {
-    "date": "Monday Apr 21st",
-    "time": "9:30 PM EDT • (85 min)",
-    "name": "Intro to NewStyle Hustle",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-28T21:30:00",
+    "time_end": "2025-04-28T22:55:00",
+    "style": "NewStyle Hustle",
+    "level": "Intro to",
     "instructor": "Kenji",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/SPQawi2AGixMC7jAniv9",
+    "description": "",
+    "unified_level": [
+      "Intro"
+    ]
   },
   {
-    "date": "Monday Apr 21st",
-    "time": "9:30 PM EDT • (120 min)",
-    "name": "Open Breaking Session",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-28T21:30:00",
+    "time_end": "2025-04-28T23:30:00",
+    "style": "Breaking Session",
+    "level": "Open",
     "instructor": "Static",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/kK9tyOwP0jTG0Bbpa4Jp",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Tuesday Apr 22nd",
-    "time": "5:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-29T17:00:00",
+    "time_end": "2025-04-29T18:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
     "instructor": "Jason Diaz",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/Bw01u2Mx29zdON1dxNOz",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
   },
   {
-    "date": "Tuesday Apr 22nd",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "Adv. Beginner/Int. Choreography",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-29T18:30:00",
+    "time_end": "2025-04-29T19:55:00",
+    "style": "Choreography",
+    "level": "Adv. Beginner/Int.",
     "instructor": "Unique Clay",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/vt3DBgWH5bICoyJ0CVBM",
+    "description": "",
+    "unified_level": [
+      "Beginner/Intermediate",
+      "Intermediate",
+      "Advanced Beginner",
+      "Advanced Intermediate"
+    ]
   },
   {
-    "date": "Tuesday Apr 22nd",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "All Levels Waacking",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-29T18:30:00",
+    "time_end": "2025-04-29T19:55:00",
+    "style": "Waacking",
+    "level": "All Levels",
     "instructor": "Onjay",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/MtddZR0gdi2MclLawBYb",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Tuesday Apr 22nd",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "Beg./Adv. Beg. Choreography",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-29T20:00:00",
+    "time_end": "2025-04-29T21:25:00",
+    "style": "Choreography",
+    "level": "Beg./Adv. Beg.",
     "instructor": "Andrew Solis",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/0NSMlpFIKn15AFSXITB3",
+    "description": "",
+    "unified_level": [
+      "Absolute Beginner",
+      "Beginner/Intermediate",
+      "Advanced Beginner"
+    ]
   },
   {
-    "date": "Tuesday Apr 22nd",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "Intermediate House",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-29T20:00:00",
+    "time_end": "2025-04-29T21:25:00",
+    "style": "House",
+    "level": "Intermediate",
     "instructor": "Huu Rock",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/vmZXItCkclLpdg3yqEBo",
+    "description": "",
+    "unified_level": [
+      "Intermediate"
+    ]
   },
   {
-    "date": "Tuesday Apr 22nd",
-    "time": "9:30 PM EDT • (120 min)",
-    "name": "Open \"Modega\" House/Funk Session",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-29T21:30:00",
+    "time_end": "2025-04-29T23:30:00",
+    "style": "\"Modega\" House/Funk Session",
+    "level": "Open",
     "instructor": "Huu Rock",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/ygH34UYxwHuqS2gXAhH2",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Wednesday Apr 23rd",
-    "time": "5:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-30T17:00:00",
+    "time_end": "2025-04-30T18:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
     "instructor": "Sarah Esser",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/AiIOc0HZ5wuA5U4AY9Sh",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
   },
   {
-    "date": "Wednesday Apr 23rd",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "All Levels Krump",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-30T18:30:00",
+    "time_end": "2025-04-30T19:55:00",
+    "style": "Krump",
+    "level": "All Levels",
     "instructor": "Brian Hallow Dreamz",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/7pkKKifRn4SUfnp4QvPn",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Wednesday Apr 23rd",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
-    "instructor": "Jojo Brooks",
-    "instructor_bio": "",
-    "description": ""
+    "time_start": "2025-04-30T18:30:00",
+    "time_end": "2025-04-30T19:55:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
+    "instructor": "Kara Lee",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/Y5hZkapkF3XmxjJlp2K9",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
   },
   {
-    "date": "Wednesday Apr 23rd",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-04-30T20:00:00",
+    "time_end": "2025-04-30T21:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
     "instructor": "Bo Belza",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/2Mtxd8GIr1A7atDyh86V",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
   },
   {
-    "date": "Thursday Apr 24th",
-    "time": "5:00 PM EDT • (85 min)",
-    "name": "Beginner Vogue-Femme",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-01T17:00:00",
+    "time_end": "2025-05-01T18:25:00",
+    "style": "Vogue-Femme",
+    "level": "Beginner",
     "instructor": "Saki",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/JC9lHuVJgk5TmoSbO4I1",
+    "description": "",
+    "unified_level": [
+      "Absolute Beginner",
+      "Beginner"
+    ]
   },
   {
-    "date": "Thursday Apr 24th",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "Beg/Adv. Beg. Street Styles Choreography",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-01T18:30:00",
+    "time_end": "2025-05-01T19:55:00",
+    "style": "Street Styles Choreography",
+    "level": "Beg/Adv. Beg.",
     "instructor": "Amy Gatewood",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/rtGVTQaPk7rmjHUANkkG",
+    "description": "",
+    "unified_level": []
   },
   {
-    "date": "Thursday Apr 24th",
-    "time": "8:00 PM EDT • (85 min)",
-    "name": "All Levels JerZ",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-01T20:00:00",
+    "time_end": "2025-05-01T21:25:00",
+    "style": "JerZ",
+    "level": "All Levels",
     "instructor": "E Skilllz",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/PXiATsHaNtmFoBEg2iU8",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Thursday Apr 24th",
-    "time": "9:30 PM EDT • (120 min)",
-    "name": "\"Every Thursday\" Open Freestyle Session",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-01T21:30:00",
+    "time_end": "2025-05-01T23:30:00",
+    "style": "\"Every Thursday\" Open Freestyle Session",
+    "level": null,
     "instructor": "CJ & 8-Legx & Darien Van Rensalier",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/M5fHVUaiZmGe6ekL7tW2",
+    "description": "",
+    "unified_level": []
   },
   {
-    "date": "Friday Apr 25th",
-    "time": "5:30 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-01T21:30:00",
+    "time_end": "2025-05-01T23:30:00",
+    "style": "Freestyle Session",
+    "level": "Open",
+    "instructor": "8-Legx & CJ",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/0Q1u4ZHarRBX4rW6lHV2",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-02T17:30:00",
+    "time_end": "2025-05-02T18:55:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
     "instructor": "Masumi Kambayashi",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/BmP7CgMV0qT4m8kRJXk1",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
   },
   {
-    "date": "Friday Apr 25th",
-    "time": "8:30 PM EDT • (90 min)",
-    "name": "Open Krump Lab",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-02T20:30:00",
+    "time_end": "2025-05-02T22:00:00",
+    "style": "Krump Lab",
+    "level": "Open",
     "instructor": "Anubis",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/8dvYu0JhUkl3CwON2Mcn",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Saturday Apr 26th",
-    "time": "1:00 PM EDT • (85 min)",
-    "name": "Int./Adv. Choreography",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-02T20:30:00",
+    "time_end": "2025-05-02T22:00:00",
+    "style": "Krump Lab",
+    "level": "Open",
+    "instructor": "Brian Hallow Dreamz",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/gy9ufeCZ1LNBK7Dho9Kn",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-03T13:00:00",
+    "time_end": "2025-05-03T14:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
     "instructor": "Miguel Ruiz",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/YGCHhIup9a4VROdouBaE",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
   },
   {
-    "date": "Saturday Apr 26th",
-    "time": "2:30 PM EDT • (85 min)",
-    "name": "All Levels Popping",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-03T14:30:00",
+    "time_end": "2025-05-03T15:55:00",
+    "style": "Popping",
+    "level": "All Levels",
     "instructor": "Wiz",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/JjmHOTHBJRBZIxfPV9Mi",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Saturday Apr 26th",
-    "time": "4:00 PM EDT • (120 min)",
-    "name": "Open \"Chilluminati\" Session",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-03T16:00:00",
+    "time_end": "2025-05-03T18:00:00",
+    "style": "\"Chilluminati\" Session",
+    "level": "Open",
     "instructor": "Kevin Chen",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/ujP3RdI7NLkglZTGH7rX",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Saturday Apr 26th",
-    "time": "6:00 PM EDT • (85 min)",
-    "name": "All Levels Vogue Femme",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-03T18:00:00",
+    "time_end": "2025-05-03T19:25:00",
+    "style": "Vogue Femme",
+    "level": "All Levels",
     "instructor": "Saki",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/LbjMybFD3wWhz4RTbv78",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Saturday Apr 26th",
-    "time": "7:30 PM EDT • (85 min)",
-    "name": "All Levels Locking",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-03T19:30:00",
+    "time_end": "2025-05-03T20:55:00",
+    "style": "Locking",
+    "level": "All Levels",
     "instructor": "Rita Gosin",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/aip2F8Nt1tBBcXRxQk68",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Sunday Apr 27th",
-    "time": "3:30 PM EDT • (90 min)",
-    "name": "Open Flexn Session",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-04T15:30:00",
+    "time_end": "2025-05-04T17:00:00",
+    "style": "Flexn Session",
+    "level": "Open",
     "instructor": "Cal Hunt",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/GVYsB8vuVv9oRqyO2LvP",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Sunday Apr 27th",
-    "time": "5:00 PM EDT • (85 min)",
-    "name": "Beg./Adv. Beginner House",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-04T17:00:00",
+    "time_end": "2025-05-04T18:25:00",
+    "style": "House",
+    "level": "Beg./Adv. Beginner",
     "instructor": "Sabrina Kiamilev",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/1PeiapLd6BBNTKftzJR9",
+    "description": "",
+    "unified_level": [
+      "Absolute Beginner",
+      "Beginner",
+      "Beginner/Intermediate"
+    ]
   },
   {
-    "date": "Sunday Apr 27th",
-    "time": "6:30 PM EDT • (85 min)",
-    "name": "Adv. Beginner/Int. Choreography",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-04T18:30:00",
+    "time_end": "2025-05-04T19:55:00",
+    "style": "Choreography",
+    "level": "Adv. Beginner/Int.",
     "instructor": "Youran Lee",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/qh0cJsdnLv2JMQKyMDPE",
+    "description": "",
+    "unified_level": [
+      "Beginner/Intermediate",
+      "Intermediate",
+      "Advanced Beginner",
+      "Advanced Intermediate"
+    ]
   },
   {
-    "date": "Sunday Apr 27th",
-    "time": "8:00 PM EDT • (120 min)",
-    "name": "Open Hip Hop Session",
-    "staff": "",
-    "room": "",
+    "time_start": "2025-05-04T20:00:00",
+    "time_end": "2025-05-04T22:00:00",
+    "style": "Hip Hop Session",
+    "level": "Open",
     "instructor": "Kito Liao & Liam Lynch",
-    "instructor_bio": "",
-    "description": ""
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/YjoRxMfVkgpyzRcpw086",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
   },
   {
-    "date": "Monday Apr 28th",
-    "time": "5:00 PM EDT • (85 min)",
-    "name": "All Levels Floorwork",
-    "staff": "",
-    "room": "",
-    "instructor": "Ice-o",
-    "instructor_bio": "",
-    "description": ""
+    "time_start": "2025-05-04T20:00:00",
+    "time_end": "2025-05-04T22:00:00",
+    "style": "Hip Hop Session",
+    "level": "Open",
+    "instructor": "Kito Liao & Liam Lynch",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/kOw3y8vWTVUiJgt7QwSv",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-04T21:30:00",
+    "time_end": "2025-05-04T23:30:00",
+    "style": "\"Modega\" House/Funk Session",
+    "level": "Open",
+    "instructor": "Huu Rock",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/B9K5mzeqTWA20p225A68",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-05T18:30:00",
+    "time_end": "2025-05-05T19:55:00",
+    "style": "Hip Hop",
+    "level": "All Levels",
+    "instructor": "Quilan \"Cue\" Arnold",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/S5nTTiTFsIJnKnKfUbBd",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-05T18:30:00",
+    "time_end": "2025-05-05T19:55:00",
+    "style": "Choreography",
+    "level": "Beg./Adv. Beginner",
+    "instructor": "Edson Maldonado",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/0n85XSwhz94LF3SpFlER",
+    "description": "",
+    "unified_level": [
+      "Absolute Beginner",
+      "Beginner",
+      "Beginner/Intermediate"
+    ]
+  },
+  {
+    "time_start": "2025-05-05T20:00:00",
+    "time_end": "2025-05-05T21:25:00",
+    "style": "Breaking",
+    "level": "All Levels",
+    "instructor": "Static",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/QqRQ7X8z4Mky6AmJbHp7",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-05T20:00:00",
+    "time_end": "2025-05-05T21:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
+    "instructor": "Esosa Oviasu",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/uC4nWUi5corlLVMyA1RH",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
+  },
+  {
+    "time_start": "2025-05-05T21:30:00",
+    "time_end": "2025-05-05T22:55:00",
+    "style": "NewStyle Hustle",
+    "level": "Intro to",
+    "instructor": "Kenji",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/yDPLSJEcJ7pQFdZXhoKr",
+    "description": "",
+    "unified_level": [
+      "Intro"
+    ]
+  },
+  {
+    "time_start": "2025-05-05T21:30:00",
+    "time_end": "2025-05-05T23:30:00",
+    "style": "Breaking Session",
+    "level": "Open",
+    "instructor": "Static",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/pioV0JxnGnyUOmt4xeKE",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-05T21:30:00",
+    "time_end": "2025-05-05T23:30:00",
+    "style": "Breaking Session",
+    "level": "Open",
+    "instructor": "Static",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/x8QGQsWZfpBwfcMZKFAC",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-06T17:00:00",
+    "time_end": "2025-05-06T18:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
+    "instructor": "Jason Diaz",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/YQ2nVUzpZkgwZ2OPgNZm",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
+  },
+  {
+    "time_start": "2025-05-06T18:30:00",
+    "time_end": "2025-05-06T19:55:00",
+    "style": "Choreography",
+    "level": "Adv. Beginner/Int.",
+    "instructor": "Unique Clay",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/BzPObFsCNfri5W0nWrX3",
+    "description": "",
+    "unified_level": [
+      "Beginner/Intermediate",
+      "Intermediate",
+      "Advanced Beginner",
+      "Advanced Intermediate"
+    ]
+  },
+  {
+    "time_start": "2025-05-06T18:30:00",
+    "time_end": "2025-05-06T19:55:00",
+    "style": "Waacking",
+    "level": "All Levels",
+    "instructor": "Onjay",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/xiZYcxHYW3zFENmIclg4",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-06T20:00:00",
+    "time_end": "2025-05-06T21:25:00",
+    "style": "Choreography",
+    "level": "Beg./Adv. Beg.",
+    "instructor": "Andrew Solis",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/EoqlBgQQroKAkfPrBHob",
+    "description": "",
+    "unified_level": [
+      "Absolute Beginner",
+      "Beginner/Intermediate",
+      "Advanced Beginner"
+    ]
+  },
+  {
+    "time_start": "2025-05-06T20:00:00",
+    "time_end": "2025-05-06T21:25:00",
+    "style": "House",
+    "level": "Intermediate",
+    "instructor": "Huu Rock",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/pz8y96xd1b30L4zmNDwz",
+    "description": "",
+    "unified_level": [
+      "Intermediate"
+    ]
+  },
+  {
+    "time_start": "2025-05-06T21:30:00",
+    "time_end": "2025-05-06T23:30:00",
+    "style": "\"Modega\" House/Funk Session",
+    "level": "Open",
+    "instructor": "Huu Rock",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/0DIc6OgX5b2Lot9ektAe",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-06T21:30:00",
+    "time_end": "2025-05-06T23:30:00",
+    "style": "\"Modega\" House/Funk Session",
+    "level": "Open",
+    "instructor": "Huu Rock",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/atZNsqFbxBkmMsLIpzDz",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-07T17:00:00",
+    "time_end": "2025-05-07T18:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
+    "instructor": "Sarah Esser",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/XQAGFT6ajDhfG7qdHHT0",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
+  },
+  {
+    "time_start": "2025-05-07T18:30:00",
+    "time_end": "2025-05-07T19:55:00",
+    "style": "Krump",
+    "level": "All Levels",
+    "instructor": "Brian Hallow Dreamz",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/vHyxjqj1FyAYXMRNl061",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-07T18:30:00",
+    "time_end": "2025-05-07T19:55:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
+    "instructor": "Jojo Brooks",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/PAFtVkbNWAAeg81InqgK",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
+  },
+  {
+    "time_start": "2025-05-07T20:00:00",
+    "time_end": "2025-05-07T21:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
+    "instructor": "Bo Belza",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/1qfp298QZFUSQ3eNXSml",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
+  },
+  {
+    "time_start": "2025-05-08T17:00:00",
+    "time_end": "2025-05-08T18:25:00",
+    "style": "Vogue-Femme",
+    "level": "Beginner",
+    "instructor": "Saki",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/3moHqbtKdBcNrpyRGnvT",
+    "description": "",
+    "unified_level": [
+      "Absolute Beginner",
+      "Beginner"
+    ]
+  },
+  {
+    "time_start": "2025-05-08T18:30:00",
+    "time_end": "2025-05-08T19:55:00",
+    "style": "Street Styles Choreography",
+    "level": "Beg/Adv. Beg.",
+    "instructor": "Amy Gatewood",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/NjjYEBLumuRlzw6u1jx0",
+    "description": "",
+    "unified_level": []
+  },
+  {
+    "time_start": "2025-05-08T20:00:00",
+    "time_end": "2025-05-08T21:25:00",
+    "style": "JerZ",
+    "level": "All Levels",
+    "instructor": "E Skilllz",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/hNQIVu2NunF8FkQF1wtK",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-08T20:00:00",
+    "time_end": "2025-05-08T21:25:00",
+    "style": "Choreography",
+    "level": "Intermediate",
+    "instructor": "Sofia Quezaire",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/DoHDxjxXZ5I9qDEliXum",
+    "description": "",
+    "unified_level": [
+      "Intermediate"
+    ]
+  },
+  {
+    "time_start": "2025-05-08T21:30:00",
+    "time_end": "2025-05-08T23:30:00",
+    "style": "\"Every Thursday\" Open Freestyle Session",
+    "level": null,
+    "instructor": "CJ & 8-Legx & Darien Van Rensalier",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/IV2Xa5EnczTZuQwv09v4",
+    "description": "",
+    "unified_level": []
+  },
+  {
+    "time_start": "2025-05-08T21:30:00",
+    "time_end": "2025-05-08T23:30:00",
+    "style": "Freestyle Session",
+    "level": "Open",
+    "instructor": "8-Legx & CJ",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/9l6CmwAXWdyIuxBrmE1c",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-09T17:30:00",
+    "time_end": "2025-05-09T18:55:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
+    "instructor": "Masumi Kambayashi",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/dj5rUmpX3ZPzFLcpLAEa",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
+  },
+  {
+    "time_start": "2025-05-09T20:30:00",
+    "time_end": "2025-05-09T22:00:00",
+    "style": "Krump Lab",
+    "level": "Open",
+    "instructor": "Brian Hallow Dreamz",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/2nJ21Rmh4KImKD2ChQEu",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-09T20:30:00",
+    "time_end": "2025-05-09T22:00:00",
+    "style": "Krump Lab",
+    "level": "Open",
+    "instructor": "Anubis",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/vpNaPL8EP0iYdfDA3WAH",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-10T13:00:00",
+    "time_end": "2025-05-10T14:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
+    "instructor": "Miguel Ruiz",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/DnkTOgwO4pOQlaG6UdR1",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
+  },
+  {
+    "time_start": "2025-05-10T14:30:00",
+    "time_end": "2025-05-10T15:55:00",
+    "style": "Popping",
+    "level": "All Levels",
+    "instructor": "Wiz",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/UNnif7yxY1v17YLtcWEl",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-10T16:00:00",
+    "time_end": "2025-05-10T18:00:00",
+    "style": "\"Chilluminati\" Session",
+    "level": "Open",
+    "instructor": "Kevin Chen",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/0Trwm24D1ZXJhV6ii6AJ",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-10T18:00:00",
+    "time_end": "2025-05-10T19:25:00",
+    "style": "Vogue Femme",
+    "level": "All Levels",
+    "instructor": "Saki",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/CvqBz2mkinMljlXtkFZt",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-10T19:30:00",
+    "time_end": "2025-05-10T20:55:00",
+    "style": "Locking",
+    "level": "All Levels",
+    "instructor": "Rita Gosin",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/f60sxBdrCrghNT5qgCKe",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-11T15:30:00",
+    "time_end": "2025-05-11T17:00:00",
+    "style": "Flexn Session",
+    "level": "Open",
+    "instructor": "Cal Hunt",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/hO7qhmhAYC3lovgQZROA",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-11T17:00:00",
+    "time_end": "2025-05-11T18:25:00",
+    "style": "House",
+    "level": "Beg./Adv. Beginner",
+    "instructor": "Sabrina Kiamilev",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/DqflIYfOg8m85vJWGjP0",
+    "description": "",
+    "unified_level": [
+      "Absolute Beginner",
+      "Beginner",
+      "Beginner/Intermediate"
+    ]
+  },
+  {
+    "time_start": "2025-05-11T18:30:00",
+    "time_end": "2025-05-11T19:55:00",
+    "style": "Choreography",
+    "level": "Adv. Beginner/Int.",
+    "instructor": "Youran Lee",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/levaEBMkunKQvvlHAHnS",
+    "description": "",
+    "unified_level": [
+      "Beginner/Intermediate",
+      "Intermediate",
+      "Advanced Beginner",
+      "Advanced Intermediate"
+    ]
+  },
+  {
+    "time_start": "2025-05-11T20:00:00",
+    "time_end": "2025-05-11T22:00:00",
+    "style": "Hip Hop Session",
+    "level": "Open",
+    "instructor": "Kito Liao & Liam Lynch",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/LbMGti27WL0btCqwt6sd",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-11T20:00:00",
+    "time_end": "2025-05-11T22:00:00",
+    "style": "Hip Hop Session",
+    "level": "Open",
+    "instructor": "Kito Liao & Liam Lynch",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/sTltsSnjC75cFNHxCwDd",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-11T21:30:00",
+    "time_end": "2025-05-11T23:30:00",
+    "style": "\"Modega\" House/Funk Session",
+    "level": "Open",
+    "instructor": "Huu Rock",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/p0mjRIPqxn0fuDl2lgiR",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-12T18:30:00",
+    "time_end": "2025-05-12T19:55:00",
+    "style": "Hip Hop",
+    "level": "All Levels",
+    "instructor": "Quilan \"Cue\" Arnold",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/pTIJAKIUy9tgxhgsR2vs",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-12T18:30:00",
+    "time_end": "2025-05-12T19:55:00",
+    "style": "Choreography",
+    "level": "Beg./Adv. Beginner",
+    "instructor": "Edson Maldonado",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/L58i35qCq66KPsvYkZvJ",
+    "description": "",
+    "unified_level": [
+      "Absolute Beginner",
+      "Beginner",
+      "Beginner/Intermediate"
+    ]
+  },
+  {
+    "time_start": "2025-05-12T20:00:00",
+    "time_end": "2025-05-12T21:25:00",
+    "style": "Breaking",
+    "level": "All Levels",
+    "instructor": "Static",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/K2mPD0jmMqxFRS8PXagU",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-12T20:00:00",
+    "time_end": "2025-05-12T21:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
+    "instructor": "Esosa Oviasu",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/KKTHK7OGwWm6ZfHamYgt",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
+  },
+  {
+    "time_start": "2025-05-12T21:30:00",
+    "time_end": "2025-05-12T22:55:00",
+    "style": "NewStyle Hustle",
+    "level": "Intro to",
+    "instructor": "Kenji",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/vu0H5lo3uf83t5Kd7Gyx",
+    "description": "",
+    "unified_level": [
+      "Intro"
+    ]
+  },
+  {
+    "time_start": "2025-05-12T21:30:00",
+    "time_end": "2025-05-12T23:30:00",
+    "style": "Breaking Session",
+    "level": "Open",
+    "instructor": "Static",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/YBxAslr3FFSWyrTPJb3u",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-12T21:30:00",
+    "time_end": "2025-05-12T23:30:00",
+    "style": "Breaking Session",
+    "level": "Open",
+    "instructor": "Static",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/t82FgEqIis2axcGAxLkb",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-13T17:00:00",
+    "time_end": "2025-05-13T18:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
+    "instructor": "Jason Diaz",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/KtVea1y8TAyEEaAHwMwq",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
+  },
+  {
+    "time_start": "2025-05-13T18:30:00",
+    "time_end": "2025-05-13T19:55:00",
+    "style": "Choreography",
+    "level": "Adv. Beginner/Int.",
+    "instructor": "Unique Clay",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/lteJlOsbjbTjMdJv43WM",
+    "description": "",
+    "unified_level": [
+      "Beginner/Intermediate",
+      "Intermediate",
+      "Advanced Beginner",
+      "Advanced Intermediate"
+    ]
+  },
+  {
+    "time_start": "2025-05-13T18:30:00",
+    "time_end": "2025-05-13T19:55:00",
+    "style": "Waacking",
+    "level": "All Levels",
+    "instructor": "Onjay",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/LUDYcLt97BYSyD4POXSk",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-13T20:00:00",
+    "time_end": "2025-05-13T21:25:00",
+    "style": "Choreography",
+    "level": "Beg./Adv. Beg.",
+    "instructor": "Andrew Solis",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/dC7H9LzyIt8fwly1ojix",
+    "description": "",
+    "unified_level": [
+      "Absolute Beginner",
+      "Beginner/Intermediate",
+      "Advanced Beginner"
+    ]
+  },
+  {
+    "time_start": "2025-05-13T20:00:00",
+    "time_end": "2025-05-13T21:25:00",
+    "style": "House",
+    "level": "Intermediate",
+    "instructor": "Huu Rock",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/wn8GurYQpxuH0qizHUHV",
+    "description": "",
+    "unified_level": [
+      "Intermediate"
+    ]
+  },
+  {
+    "time_start": "2025-05-13T21:30:00",
+    "time_end": "2025-05-13T23:30:00",
+    "style": "\"Modega\" House/Funk Session",
+    "level": "Open",
+    "instructor": "Huu Rock",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/3uW7gh8RkY6GYFViJpAJ",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-13T21:30:00",
+    "time_end": "2025-05-13T23:30:00",
+    "style": "\"Modega\" House/Funk Session",
+    "level": "Open",
+    "instructor": "Huu Rock",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/IbW1HZe9mTIFfA0B1knV",
+    "description": "",
+    "unified_level": [
+      "Open Level"
+    ]
+  },
+  {
+    "time_start": "2025-05-14T17:00:00",
+    "time_end": "2025-05-14T18:25:00",
+    "style": "Choreography",
+    "level": "Int./Adv.",
+    "instructor": "Sarah Esser",
+    "studio": "Modega",
+    "address": "11-05 44th Ave, Queens, NY 11101",
+    "link": "/modega/checkout/IMyq9GfBwUtTRXTawVPb",
+    "description": "",
+    "unified_level": [
+      "Intermediate",
+      "Advanced Intermediate",
+      "Advanced"
+    ]
   }
 ]

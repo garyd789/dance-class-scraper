@@ -2,6 +2,151 @@ from playwright.sync_api import sync_playwright
 import time
 import json
 import os
+import datetime
+from datetime import timedelta
+
+
+def month_str_to_int(month_abbrev: str) -> int:
+    lookup = {
+        "jan": 1,
+        "feb": 2,
+        "mar": 3,
+        "apr": 4,
+        "may": 5,
+        "jun": 6,
+        "jul": 7,
+        "aug": 8,
+        "sep": 9,
+        "oct": 10,
+        "nov": 11,
+        "dec": 12,
+    }
+
+    key = month_abbrev.strip().lower()
+    if key not in lookup:
+        raise ValueError(f"Invalid month abbreviation: {month_abbrev!r}")
+    return lookup[key]
+
+def extract_number(s: str) -> int:
+    digits = ''.join(ch for ch in s if ch.isdigit())
+    if not digits:
+        raise ValueError(f"No digits in {s!r}")
+    return int(digits)
+
+
+# Define dance class levels in order of length (longest first)
+LEVELS = [
+    "All Levels Floorwork",  # if you ever have multi-word levels like this
+    "Adv. Beginner/Int.",
+    "Beg./Adv, Beg.",
+    "Beg/Adv. Beg.",
+    "Beg./Adv.-Beg.",
+    "Beg./Adv. Beginner",
+    "Adv. Beginner/Int.",
+    "Adv.-Beg./Int.",
+    "Beg./Adv. Beginner",
+    "Adv. Beginner/Int.",
+    "Beg./Adv. Beg.",
+    "All Levels",
+    "Beg./Adv.",
+    "Int./Adv.",
+    "Beginner",
+    "Intermediate",
+    "Advanced",
+    "Intro to",
+    "Intro",
+    "Open"
+
+]
+# Sort by length in descending order to match longest level first
+LEVELS.sort(key=len, reverse=True)
+
+
+# Mapping the levels to your descriptions
+UNIFIED_LEVELS = {
+    "Absolute Beginner": [
+        "Beg./Adv. Beg.",
+        "Beg./Adv.-Beg.",
+        "Beg./Adv. Beginner",
+        "Beginner"
+    ],
+    "Beginner": [
+        "Beginner",
+        "Beg./Adv, Beg.",
+        "Beg./Adv.-Beg.",
+        "Beg./Adv. Beginner"
+    ],
+    "Beginner/Intermediate": [
+        "Beg./Adv. Beg.",
+        "Beg./Adv.-Beg.",
+        "Beg./Adv. Beginner",
+        "Adv. Beginner/Int.",
+        "Adv.-Beg./Int."
+    ],
+    "Intermediate": [
+        "Intermediate",
+        "Int./Adv.",
+        "Adv. Beginner/Int.",
+        "Adv.-Beg./Int."
+    ],
+    "Advanced Beginner": [
+        "Adv. Beginner/Int.",
+        "Adv.-Beg./Int.",
+        "Adv. Beginner",
+        "Beg./Adv. Beg."
+    ],
+    "Advanced Intermediate": [
+        "Adv. Beginner/Int.",
+        "Adv.-Beg./Int.",
+        "Int./Adv."
+    ],
+    "Advanced": [
+        "Advanced",
+        "Int./Adv.",
+    ],
+    "Professional": [
+        "Advanced"
+    ],
+    "Open Level": [
+        "All Levels",
+        "All Levels Floorwork",
+        "Open"
+    ],
+    "Intro": [
+        "Intro",
+        "Intro to"
+    ],
+    "Basic": [
+        "Basic"
+    ]
+}
+
+def match_unified_level(input_str: str) -> str:
+    unified_levels = []
+    # Get the associated unified levels for the given description
+    for unified_level, level in UNIFIED_LEVELS.items():
+        for level in level:
+            if input_str == level:
+                unified_levels.append(unified_level)
+    return unified_levels
+
+
+
+def parse_level_and_style(input_str: str) -> tuple[str | None, str]:
+    """
+    Splits an input like "Beg./Adv. Beginner Choreography" into:
+      level = "Beg./Adv."
+      style = "Beginner Choreography"
+    Or returns (None, input_str) if no known level prefix matches.
+    """
+    for level in LEVELS:
+        if input_str.startswith(level):
+            style = input_str[len(level):].strip()
+            return level, style
+
+    # fallback: no recognized level prefix
+    return None, input_str
+
 
 print("Starting the Modega dance class scraper...")
 
@@ -94,7 +239,10 @@ try:
             # Get the date for this day
             date_element = day_element.query_selector("div.class-list__day")
             date_text = date_element.inner_text().strip() if date_element else "Unknown Date"
-            print(f"Date: {date_text}")
+            day_text, month_text, date_text = date_text.split()
+            year_text = datetime.datetime.now().year
+
+            print(f"Day: {day_text} Date: {month_text}, {date_text}, {year_text}")
             
             # Find all class cards within this day
             class_cards = day_element.query_selector_all("div.class-list__card")
@@ -105,27 +253,73 @@ try:
                 
                 # Initialize class data
                 class_data = {
-                    "date": date_text,
-                    "time": "",
-                    "name": "",
-                    "staff": "",
-                    "room": "",
+                    "time_start": date_text,
+                    "time_end": "",
+                    "style": "",
+                    "level": "",
                     "instructor": "",
-                    "instructor_bio": "",
-                    "description": ""
+                    "studio": "Modega",
+                    "address": "11-05 44th Ave, Queens, NY 11101",
+                    "link":"",
+                    "description": "",
+                    "unified_level": ""
                 }
                 
                 # Extract class time
                 time_element = card.query_selector("p.dateTimeText")
                 if time_element:
-                    class_data["time"] = time_element.inner_text().strip()
-                    print(f"    Time: {class_data['time']}")
+                    time_element = time_element.inner_text().strip()
+                    # Split to get just the time part
+                    time_duration = int((time_element.split("•")[1].strip()).split()[0][1:])
+                    time_element = time_element.split("•")[0].strip()
+                    # Drop the time zone token
+                    time_element = " ".join(time_element.split()[:2])
+                    # Turn into datetime object
+                    time_obj = datetime.datetime.strptime(time_element, "%I:%M %p")
+
+                    year = int(year_text)
+                    month = int(month_str_to_int(month_text))
+                    day = int(extract_number(date_text))
+                    hour = int(time_obj.hour)
+                    minute = int(time_obj.minute)
+                
+                    
+                    time_start_oject = datetime.datetime(
+                        year,
+                        month,
+                        day,
+                        hour,
+                        minute
+                    )
+
+                    time_start_iso_string = time_start_oject.isoformat()
+                    class_data["time_start"] = time_start_iso_string
+
+                    time_end_object = time_start_oject + timedelta(minutes=time_duration)
+                    time_end_iso_string = time_end_object.isoformat()
+                    class_data["time_end"] = time_end_iso_string
+
+                    print(f"    Time Start: {class_data['time_start']}")
+                    print(f"    Time End: {class_data['time_end']}")
+                
+                #Extract class link
+                link_element = card.query_selector("a.btn")
+                if link_element:
+                    href = link_element.get_attribute("href")
+                    if href:
+                        class_data["link"] = href
+                        print(f"    Link: {class_data['link']}")
                 
                 # Extract class name
                 name_element = card.query_selector("div.card-title")
                 if name_element:
-                    class_data["name"] = name_element.inner_text().strip()
-                    print(f"    Name: {class_data['name']}")
+                    name_text = name_element.inner_text().strip()
+                    level, style = parse_level_and_style(name_text)
+                    unified_level = match_unified_level(level)
+                    class_data["style"] = style
+                    class_data["level"] = level
+                    class_data["unified_level"] = unified_level
+                    print(f"   Style and Level: {class_data['level']} {class_data['style']}")
                 
                 # Extract instructor
                 instructor_element = card.query_selector("p.font-weight-bold")
@@ -170,3 +364,4 @@ except Exception as e:
     print(f"An error occurred: {e}")
     import traceback
     print(traceback.format_exc())
+
